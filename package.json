@@ -5,13 +5,13 @@
     ],
     "devDependencies": {
         "@floating-ui/dom": "^1.5.3",
-        "axios": "^0.21.1",
+        "axios": "^0.30.0",
         "chalk": "^4.1.1",
-        "cypress": "^7.0.0",
+        "cypress": "^14.2.1",
         "cypress-plugin-tab": "^1.0.5",
         "dot-json": "^1.2.2",
-        "esbuild": "~0.16.17",
-        "jest": "^26.6.3",
+        "esbuild": "~0.25.0",
+        "jest": "^29.7.0",
         "sortablejs": "^1.15.2"
     },
     "scripts": {
